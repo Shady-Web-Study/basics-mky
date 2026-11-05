@@ -1,8 +1,8 @@
-name: '연습'
+name: 연습
 description: 워크북 메인 미션이 아닌 자잘한 미션을 수행합니다.
-title: '[PRACTICE] '
-labels: ['practice']
-assignees: []
+title: "[PRACTICE] "
+labels:
+  - practice
 
 body:
   - type: textarea
