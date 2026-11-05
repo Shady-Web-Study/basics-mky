@@ -1,5 +1,5 @@
 ---
-name: 연습
+name: 자잘한 연습
 about: 워크북 메인 미션이 아닌 자잘한 미션을 수행합니다.
 title: "[PRACTICE] "
 labels: practice
